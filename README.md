@@ -26,7 +26,8 @@ Conduzi a implantação do sistema que substituiu as planilhas do Google Sheets 
 
 | Repositório | Sobre |
 |---|---|
-| [AlgoritmosB](https://github.com/Gustavo-Garcia10/AlgoritmosB) | Exercícios de Algoritmos e Programação em C e C++: menus, vetores, structs, strings e arquivos |
+| [Aula_AlgoritmosB](https://github.com/Gustavo-Garcia10/Aula_AlgoritmosB) | Exercícios de Algoritmos e Programação em C e C++: menus, vetores, structs, strings e arquivos |
+| [Aula_EngenhariaSoftware](https://github.com/Gustavo-Garcia10/Aula_EngenhariaSoftware) | Resumos das aulas de Engenharia de Software: processos, requisitos e diagramas UML, com exercícios resolvidos |
 
 ## Tecnologias e ferramentas
 
